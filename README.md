@@ -1,6 +1,6 @@
 # PONG
-Simple 2D game in C# ( Unity studio ) 
+Simple 2D game in C# ( Unity studio ).
 
 
-![alt text](screenshots/pong_menu.png "Menu")
-![alt text](screenshots/pong_gameplay.png "Menu")
+![image](https://github.com/whoamiUNIX/PONG/blob/master/screenshot/pong_menu.png  "Menu")
+![image](https://github.com/whoamiUNIX/PONG/blob/master/screenshot/pong_gameplay.png "Menu")
